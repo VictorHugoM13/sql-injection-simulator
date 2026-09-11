@@ -110,7 +110,7 @@ Verifique as informações da conexão:
 $servidor = "localhost";
 $banco = "sistema_login";
 $usuario = "root";
-$senha = "Root123@";
+$senha = "";
 ```
 
 Caso a senha do usuário root seja diferente no seu computador, altere:
